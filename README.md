@@ -1,2 +1,0 @@
-# kickstarter_analysis
-hello
