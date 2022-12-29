@@ -18,6 +18,7 @@ I created a Parent category column and a subcategory column in the Kickstarter t
 Next, I created a new sheet with a pivot table to see which campaigns are successful, failed, canceled or still live based on parent categories. I put the category in the row, outcome in the column and values, and country in the filter. I made a bar graph based on the those parameters.
 
 
+[README.md](https://github.com/davis4a6/Kickstarter_Analysis/files/10317281/README.md)
 
 Next, I created a new sheet with a pivot table to see which campaigns are successful, failed, canceled or still live based on subcategories. I put the subcategory in the row, outcome in the column and values, and country in the filter. I made a bar graph based on those parameters.
 
